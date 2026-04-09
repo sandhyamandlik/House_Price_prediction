@@ -13,25 +13,6 @@ This project implements a machine learning pipeline for predicting median house 
 - Batch inference on test set
 - Interactive Streamlit app supporting USD/INR predictions
 
-## Dataset
-
-- **Source**: housing.csv (20,640 districts)
-- **Features** (9):
-  | Feature | Description |
-  |----------------------|------------------------------|
-  | longitude | Longitude |
-  | latitude | Latitude |
-  | housing_median_age | Median house age (years) |
-  | total_rooms | Total # rooms |
-  | total_bedrooms | Total # bedrooms |
-  | population | Block population |
-  | households | Block households |
-  | median_income | Median income (scaled $10k) |
-  | ocean_proximity | Categorical (NEAR BAY, etc.) |
-- **Target**: `median_house_value` (in $)
-
-Test set saved as `input.csv` (~4,128 samples).
-
 ## Model Performance (10-fold CV RMSE)
 
 | Model             | RMSE        |
