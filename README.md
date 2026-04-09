@@ -85,7 +85,7 @@ streamlit run app.py
 - Select currency (USD/₹)
 - Get predicted median house value
 
-![Screenshot.png]
+![Project Screenshot](Screenshot.png)
 
 ## Files
 
