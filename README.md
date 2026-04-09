@@ -105,16 +105,5 @@ streamlit run app.py
 - Predictions saved in `output.csv`
 - Model ready for deployment via Streamlit app
 
-## Next Steps
 
-- Hyperparameter tuning (GridSearchCV)
-- Cross-validation scoring
-- Feature engineering (e.g., rooms per household)
-- Deployment (Streamlit Cloud/Hugging Face Spaces)
 
-## License
-
-MIT
-=======
-# House_Price_prediction
->>>>>>> b4152615ecd0b7df22f404e6e90511850eeb24eb
