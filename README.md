@@ -1,4 +1,3 @@
-
 # California Housing Price Prediction
 
 ## Overview
@@ -85,6 +84,3 @@ streamlit run app.py
 
 - Predictions saved in `output.csv`
 - Model ready for deployment via Streamlit app
-
-
-
