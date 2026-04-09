@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # California Housing Price Prediction
 
 ## Overview
