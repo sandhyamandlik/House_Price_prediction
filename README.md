@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # California Housing Price Prediction
 
 ## Overview
@@ -114,3 +115,6 @@ streamlit run app.py
 ## License
 
 MIT
+=======
+# House_Price_prediction
+>>>>>>> b4152615ecd0b7df22f404e6e90511850eeb24eb
